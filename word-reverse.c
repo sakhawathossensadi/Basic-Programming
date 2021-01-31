@@ -1,3 +1,4 @@
+//reverse word in a given string
 #include<stdio.h>
 #include<string.h>
 int main()
